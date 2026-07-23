@@ -1,4 +1,4 @@
-package DeignPatterns.Exercise2_FactoryMethod;
+package Exercise2_FactoryMethod;
 
 class ExcelFactory extends DocumentFactory {
     Document createDocument() {

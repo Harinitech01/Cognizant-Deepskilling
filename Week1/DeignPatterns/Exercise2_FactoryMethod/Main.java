@@ -1,4 +1,4 @@
-package DeignPatterns.Exercise2_FactoryMethod;
+package Exercise2_FactoryMethod;
 
 public class Main {
     public static void main(String[] args) {

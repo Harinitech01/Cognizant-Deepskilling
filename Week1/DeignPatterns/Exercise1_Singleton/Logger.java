@@ -1,3 +1,5 @@
+
+package Exercise1_Singleton;
 class Logger {
 
     private static Logger instance;
